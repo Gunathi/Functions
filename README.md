@@ -1,3 +1,2 @@
 # Functions
-
 ##Functions in JavaScript
