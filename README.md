@@ -1,3 +1,3 @@
 # Functions
 
-###Functions in JavaScript
+##Functions in JavaScript
