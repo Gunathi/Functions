@@ -1,10 +1,11 @@
-//creating a function;
-
+//first function
 function remain(a,b) {
     return a%b;
 }
 console.log(remain(10,3)); //1
 
+
+//simple simple calculator
 function add(x,y) {
     return x+y;
 }
@@ -27,6 +28,7 @@ console.log(div(16,6)); //2.6666666666666665
 console.log(mul(2*4)); //
 
 
+//little bit advanced calculator
 function calculator(x,y,operator) {
     if(operator == '+'){
         return x+y;
