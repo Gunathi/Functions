@@ -41,3 +41,4 @@ function calculator(x,y,operator) {
     }
 }
     console.log(calculator(2,5,'+')); //7
+    console.log(calculator(21,5,'-')); //16
